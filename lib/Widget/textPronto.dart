@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
 Widget TextPronto(String condicao){
-  return Text("So você sabe wa minha $condicao.");
+  return Text("So você sabe wad minha $condicao.");
 }
