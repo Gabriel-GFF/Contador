@@ -1,0 +1,4 @@
+#Fri Jun 09 18:47:00 BRT 2023
+base.0=C\:\\Users\\Pichau\\Desktop\\Estudo Independente\\Flutter-Dart\\Projetos\\contador\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

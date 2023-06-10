@@ -1,0 +1,28 @@
+^C:\USERS\PICHAU\DESKTOP\ESTUDO INDEPENDENTE\FLUTTER-DART\PROJETOS\CONTADOR\BUILD\WINDOWS\CMAKEFILES\90C2E38FB05D85C907F2E758DE88FD0D\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Pichau\Documents\flutter "PROJECT_DIR=C:\Users\Pichau\Desktop\Estudo Independente\Flutter-Dart\Projetos\contador" FLUTTER_ROOT=C:\Users\Pichau\Documents\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Pichau\Desktop\Estudo Independente\Flutter-Dart\Projetos\contador\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Pichau\Desktop\Estudo Independente\Flutter-Dart\Projetos\contador" "FLUTTER_TARGET=C:\Users\Pichau\Desktop\Estudo Independente\Flutter-Dart\Projetos\contador\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC83ZWNhNWNkMWM1Y2NhOTc5MjlhN2M4ZWE0MzgxNDQxNDQ3YTM2ZjI2Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Pichau\Desktop\Estudo Independente\Flutter-Dart\Projetos\contador\.dart_tool\package_config.json" C:/Users/Pichau/Documents/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PICHAU\DESKTOP\ESTUDO INDEPENDENTE\FLUTTER-DART\PROJETOS\CONTADOR\BUILD\WINDOWS\CMAKEFILES\B89035FD5D69E22150A1F5429883C4C9\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PICHAU\DESKTOP\ESTUDO INDEPENDENTE\FLUTTER-DART\PROJETOS\CONTADOR\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Pichau/Desktop/Estudo Independente/Flutter-Dart/Projetos/contador/windows" "-BC:/Users/Pichau/Desktop/Estudo Independente/Flutter-Dart/Projetos/contador/build/windows" --check-stamp-file "C:/Users/Pichau/Desktop/Estudo Independente/Flutter-Dart/Projetos/contador/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
